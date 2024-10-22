@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9774f63-0485-49db-ae7e-7f6389f601a4" name="Telegram_bot" url="http://localhost">
+        <fileTransfer mountedRoot="C:\WebServer_Php7\home\localhost\www" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
